@@ -14,7 +14,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" />  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
           
-##status:
+## status:
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randersoncosta&layout=compact&langs_count=7&theme=dracula"/>
