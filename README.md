@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Randerson Costa!
 
-- 🔭 I’m currently working on API REST of SystemBank
 - 🌱 I’m currently learning JavaScript,typeScript and Frameworks
 - 💬 Ask me about back-end,API Rest, BataBase
 - 📫 How to reach me: randersoncosta0339@gmail.com
